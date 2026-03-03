@@ -25,6 +25,8 @@ Telegram bot for real-time monitoring of Republic AI testnet validators.
 | /alert clear | Remove all alerts |
 | /help | Help |
 
+
+
 https://t.me/republic_validator_bot
 
 ![e538348a-2aa0-4105-b822-ea02a743ad96](https://github.com/user-attachments/assets/6df9f0b4-f054-4fb3-84e5-932270e5b429)
